@@ -1,0 +1,11 @@
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\bin\Debug\netcoreapp2.0\Cognify.deps.json
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\bin\Debug\netcoreapp2.0\Cognify.runtimeconfig.json
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\bin\Debug\netcoreapp2.0\Cognify.runtimeconfig.dev.json
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\bin\Debug\netcoreapp2.0\Cognify.dll
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.csprojResolveAssemblyReference.cache
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.csproj.CoreCompileInputs.cache
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.AssemblyInfoInputs.cache
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.AssemblyInfo.cs
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\bin\Debug\netcoreapp2.0\Cognify.pdb
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.dll
+C:\Users\carro\Desktop\VisualStudioProjects\source\repos\Cognify\Cognify\obj\Debug\netcoreapp2.0\Cognify.pdb
